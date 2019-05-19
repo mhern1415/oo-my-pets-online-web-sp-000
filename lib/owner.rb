@@ -3,5 +3,6 @@ class Owner
   attr_reader :species 
   
   def initialize()
+  end
   
 end
